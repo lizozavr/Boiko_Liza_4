@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\laba4\laba4\bin\Debug\laba4.exe.config
+C:\Users\user\Desktop\laba4\laba4\obj\Debug\laba4.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\laba4\laba4\bin\Debug\laba4.exe
+C:\Users\user\Desktop\laba4\laba4\bin\Debug\laba4.pdb
+C:\Users\user\Desktop\laba4\laba4\obj\Debug\laba4.exe
+C:\Users\user\Desktop\laba4\laba4\obj\Debug\laba4.pdb
